@@ -1,0 +1,10 @@
+.slide-item {
+  .slide-item {
+    opacity: 0.8;
+  }
+
+  .slide-item.active {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+}
